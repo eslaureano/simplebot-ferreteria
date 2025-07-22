@@ -1,4 +1,4 @@
-🤖 SimpleBot - Asistente de Ferretería con ChatGPT-4
+🤖SimpleBot - Asistente de Ferretería con ChatGPT-4
 
 Este proyecto es un chatbot de línea de comandos que responde consultas sobre productos de ferretería usando la API de OpenAI GPT-4. Es ideal como base para quienes desean crear soluciones conversacionales simples pero efectivas con IA generativa.
 
